@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Youtube!
-- 📫 How to reach me at alishumail34@gmail.com
+- 📫 You can reach me at alishumail34@gmail.com
 
 <!---
 Shumail14790/Shumail14790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
